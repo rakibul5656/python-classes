@@ -33,7 +33,7 @@ Clone the repository (or copy the code):
 
 Bash
 
-git clone https://github.com/YOUR_USERNAME/rock-paper-scissors.git
+git clone [https://github.com/YOUR_USERNAME/rock-paper-scissors.git](https://github.com/rakibul5656)
 cd rock-paper-scissors
 (Replace YOUR_USERNAME and rock-paper-scissors with your actual GitHub username and repository name.)
 
