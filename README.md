@@ -2,17 +2,17 @@
 Rock-Paper-Scissors Game
 A simple and interactive Rock-Paper-Scissors game implemented in Python. Play against the computer and test your luck!
 
-Table of Contents
-Introduction
-Features
-How to Play
-Installation
-Usage
-Game Rules
-Contributing
-License
-Contact
-Introduction
+#Table of Contents
+#Introduction
+#Features
+#How to Play
+#Installation
+#Usage
+#Game Rules
+#Contributing
+#License
+#Contact
+#Introduction
 This project is a classic Rock-Paper-Scissors game designed to be played in the console. It's a great example of a basic interactive Python script, demonstrating concepts like user input, random number generation, conditional logic, and loops.
 
 Features
